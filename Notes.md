@@ -70,3 +70,22 @@ Primary Key
 Foreign Key
 Candidate Key
 Composite Key
+15. Window Functions
+Perform calculations across rows
+Examples:
+ROW_NUMBER()
+RANK()
+LEAD() / LAG()
+16. CTE (Common Table Expressions)
+Temporary result sets using WITH
+Makes queries more readable
+17. Set Operations
+Combine multiple queries
+Types:
+UNION
+UNION ALL
+INTERSECT
+EXCEPT
+18. Database Design
+Structuring tables and relationships
+Focus on efficiency, scalability, and integrity
